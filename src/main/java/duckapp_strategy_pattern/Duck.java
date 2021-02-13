@@ -1,4 +1,4 @@
-package duckapp;
+package duckapp_strategy_pattern;
 
 public abstract class Duck {
     QuackBehavior quackBehavior;
