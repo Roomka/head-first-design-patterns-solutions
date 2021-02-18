@@ -1,4 +1,4 @@
-package duckapp_strategy_pattern;
+package strategy;
 
 public class FlyRocketPowered implements FlyBehavior{
     public void fly() {

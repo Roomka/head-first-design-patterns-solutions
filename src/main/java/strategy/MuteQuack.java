@@ -1,4 +1,4 @@
-package duckapp_strategy_pattern;
+package strategy;
 
 public class MuteQuack implements QuackBehavior{
     public void quack() {

@@ -1,4 +1,4 @@
-package duckapp_strategy_pattern;
+package strategy;
 
 public class FlyNoWay implements FlyBehavior {
     public void fly() {

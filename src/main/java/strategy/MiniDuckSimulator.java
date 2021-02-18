@@ -1,4 +1,4 @@
-package duckapp_strategy_pattern;
+package strategy;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
